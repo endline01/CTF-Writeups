@@ -2,6 +2,8 @@
 ### Category: Forensics
 ### Level: easy  
 
+![image](https://user-images.githubusercontent.com/95076839/159420703-60e8be1b-1b44-439b-94e3-68d7f92adb3d.png)
+
 In this challenge there is a pcap file and I want to find the password in it.
 
 When I opened the file I try protocol hirarchy (statistics -->protocol hirarchy) and I noticed that there are HTML form URL encoded
