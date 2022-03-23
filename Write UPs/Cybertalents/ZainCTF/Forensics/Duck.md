@@ -4,7 +4,7 @@
 ## The meterial for the chellange <a href="https://drive.google.com/file/d/17QaJuQTfuarb5S3cbDX2v_bAR-EDk2IX/view?usp=sharing">here</a>
 
 
-This time the challenge was a little difficult and the because its a new idea for me :>
+This time the challenge was a little difficult and because its a new idea for me :>
 
 Ok lets start.. 
 When I check strings, exiftool, try to mount it cz when I search about .bin files there were some results saying that maybe disk image.. but its not.
