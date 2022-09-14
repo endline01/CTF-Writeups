@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/95076839/190148027-26beca88-fa62-4163-bd25-3412b4d0d4bc.png)
 
-Xor challenge, firs I tried yuctf{ because this what I know from the flag.
+Xor challenge, first I tried yuctf{ because this what I know from the flag.
 The output:
 
 ![image](https://user-images.githubusercontent.com/95076839/190148619-06592551-d854-44f5-8a70-5d2b93e2679f.png)
