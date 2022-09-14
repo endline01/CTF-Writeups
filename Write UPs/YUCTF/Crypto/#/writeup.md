@@ -20,6 +20,7 @@ Now we found the 3 chars lets find the word from rockyou and let's pay attention
 
 The highlighted part used to brute force on the word and ```word[:-1] used to remove \n, c[192:] used to remove the hash of the three chars we found them above```
 
-![image](https://user-images.githubusercontent.com/95076839/190128403-45db9e18-90e9-44fe-b8f0-625d758e41c8.png)
+![image](https://user-images.githubusercontent.com/95076839/190128403-45db9e18-90e9-44fe-b8f0-625d758e41c8.png) 
 
+You can find the solution script here <a href="https://github.com/endline01/endline01/blob/main/Write%20UPs/YUCTF/Crypto/%23/solve.py"> solve.py</a>
 #### flag: yuctf{%G0janetrzig}
