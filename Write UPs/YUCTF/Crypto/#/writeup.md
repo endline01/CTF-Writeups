@@ -6,7 +6,7 @@ According to the description we must use rockyou.txt to solve this challenge so 
 
 There is nothing interest in it except the function and how the data passed to it.
 In the function it hashed every character in md5 then in sha256 so we know that every character becomes 64 bit(we'll get back to this soon).
-Ok know we first must brute force the first 3 characters and because we don't know where they come I used <a href="https://www.geeksforgeeks.org/python-string-printable/" target="_blank">string.printable </a>```is a pre-initialized string used as string constant. In Python, string.printable will give the all sets of punctuation, digits, ascii_letters and whitespace.```
+Ok, we first must brute force the first 3 characters and because we don't know where they come I used <a href="https://www.geeksforgeeks.org/python-string-printable/" target="_blank">string.printable </a>```is a pre-initialized string used as string constant. In Python, string.printable will give the all sets of punctuation, digits, ascii_letters and whitespace.```
 
 ![image](https://user-images.githubusercontent.com/95076839/190125645-79d2cb75-e212-48bb-bbac-0c3d9ea04e5f.png)
 
