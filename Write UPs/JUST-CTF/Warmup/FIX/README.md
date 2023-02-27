@@ -1,7 +1,10 @@
 Hey guys in this challenge we have png file.
 And according to the name I think it's hex corrupted file.
+#### <a href='https://github.com/endline01/CTF-Writeups/blob/main/Write%20UPs/JUST-CTF/Warmup/FIX/flag'>challenge file
+</a>
 
 So first let's check hexdata 
+
 
 ![image](https://user-images.githubusercontent.com/95076839/221692920-117980dc-9574-439a-bdc5-1d2c02afe64a.png)
 
