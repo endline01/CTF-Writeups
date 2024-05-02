@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @endline01
-- 👀 I’m interested in web exploitation and forensics
-- 📫 How to reach me ... My facebook acc: https://www.facebook.com/evil.os01/
+- 👀 Highly motivated cybersecurity geek with a 
+passion for Penetration testing , and CTF competitions. Proven 
+ability to identify and exploit security vulnerabilities, analyse threats, 
+and develop effective security solutions. Eager to leverage strong 
+technical skills and analytical thinking to contribute to a challenging 
+and rewarding role in the cybersecurity field
+- 📫 How to reach me ... My linkedin acc: <a href="https://www.linkedin.com/in/osama-hussein-4b7125217/">endline01</a>
 
-<!---
-endline01/endline01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
